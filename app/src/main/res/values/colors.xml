@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy">#2D3D4F</color>
+    <color name="navy_dis">#cad1d9</color>
+    <color name="my_light_primary">#6200EE</color>
+    <color name="my_light_secondary">#03DAC6</color>
+    <color name="my_light_background">#FFFFFF</color>
+    <color name="my_light_surface">#FFFFFF</color>
+    <color name="my_light_on_primary">#FFFFFF</color>
+    <color name="my_light_on_secondary">#000000</color>
+
+</resources>
